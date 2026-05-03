@@ -339,5 +339,16 @@
     "fullDesc": "Прочные резиновые перчатки для работы с землей.",
     "imageName": "gloves.jpg",
     "inStock": true
+  },
+  {
+    "id": 604,
+    "category": "gortenziya",
+    "name": "Гортензия леша",
+    "price": 9999,
+    "type": "Цветущие",
+    "desc": "все четко",
+    "fullDesc": "четко в двойне",
+    "imageName": "gortenziya_lesha.jpg",
+    "inStock": true
   }
 ]
