@@ -6,7 +6,7 @@
     "type": "Хвойные",
     "category": "tuja",
     "desc": "Вечнозеленая, морозостойкая, идеальна для живой изгороди",
-    "inStock": true,
+    "inStock": false,
     "imageName": "tuja.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "type": "Хвойные",
     "category": "tuja",
     "desc": "Золотисто-желтая хвоя, медленнорастущая",
-    "inStock": true,
+    "inStock": false,
     "imageName": "tuja_gold.jpg"
   },
   {
@@ -878,5 +878,15 @@
     "desc": "Для парников и теплиц",
     "inStock": true,
     "imageName": "film.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Роза Аида",
+    "price": 2000,
+    "type": "Цветущие",
+    "category": "roza",
+    "desc": "Крупные бордовые цветы, чайно-гибридная, ароматная",
+    "inStock": true,
+    "imageName": "roza_aida.jpg"
   }
 ]
