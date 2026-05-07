@@ -373,4 +373,15 @@
     "imageName": "gortenziya_lesha.jpg",
     "inStock": true
   }
+  {
+    "id": 900,
+    "category": "chereshnya",
+    "name": Черешня 'ревна'",
+    "price": 1,
+    "type": "Плодовые",
+    "desc": "x",
+    "fullDesc": "x",
+    "imageName": "x",
+    "inStock": false
+  }
 ]
