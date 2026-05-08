@@ -6,7 +6,7 @@
     "type": "Хвойные",
     "category": "tuja",
     "desc": "Вечнозеленая, морозостойкая, идеальна для живой изгороди",
-    "inStock": false,
+    "inStock": true,
     "imageName": "tuja.jpg"
   },
   {
