@@ -1,583 +1,2203 @@
 [
   {
     "id": 1,
-    "name": "Туя Смарагд",
-    "price": 1200,
-    "type": "Хвойные",
-    "category": "tuja",
-    "desc": "Вечнозеленая, морозостойкая, идеальна для живой изгороди",
+    "name": "Гортензия Скайфолл (Skyfall)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Метельчатая гортензия с крупными белыми соцветиями",
     "inStock": true,
-    "imageName": "tuja.jpg"
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 2,
-    "name": "Туя Смарагд Голд",
-    "price": 1400,
-    "type": "Хвойные",
-    "category": "tuja",
-    "desc": "Золотисто-желтая хвоя, медленнорастущая",
-    "inStock": false,
-    "imageName": "tuja_gold.jpg"
+    "name": "Гортензия Полар Бир (Polar Bear)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Огромные белые конусовидные соцветия",
+    "inStock": true,
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 3,
-    "name": "Туя Колумна",
-    "price": 1100,
-    "type": "Хвойные",
-    "category": "tuja",
-    "desc": "Узкая колонновидная форма, быстрорастущая",
+    "name": "Гортензия Ванила Фрайс (Vanille-Fraise)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Соцветия меняют цвет с белого на розовый",
     "inStock": true,
-    "imageName": "tuja_columna.jpg"
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 4,
-    "name": "Туя Даника",
-    "price": 1300,
-    "type": "Хвойные",
-    "category": "tuja",
-    "desc": "Карликовая шаровидная форма, для альпинариев",
+    "name": "Гортензия Лаймлайт (Limelight)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Лаймовые соцветия",
     "inStock": true,
-    "imageName": "tuja_danika.jpg"
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 5,
-    "name": "Можжевельник Виргинский",
-    "price": 950,
-    "type": "Хвойные",
-    "category": "mozhevelnik",
-    "desc": "Колонновидный, голубоватая хвоя",
-    "inStock": true,
-    "imageName": "mozhevelnik_virgin.jpg"
+    "name": "Гортензия Бомбшелл (Bombshell)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Карликовая форма, обильное цветение",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 6,
-    "name": "Можжевельник Голд Стар",
-    "price": 1050,
-    "type": "Хвойные",
-    "category": "mozhevelnik",
-    "desc": "Почвопокровный, золотистый оттенок",
+    "name": "Гортензия Фрайз Мельба (Fraise Melba)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Розовеющие соцветия",
     "inStock": true,
-    "imageName": "mozhevelnik_gold.jpg"
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 7,
-    "name": "Можжевельник Блю Эрроу",
-    "price": 1150,
-    "type": "Хвойные",
-    "category": "mozhevelnik",
-    "desc": "Узкоколонновидный, голубой оттенок",
-    "inStock": true,
-    "imageName": "mozhevelnik_blue.jpg"
+    "name": "Гортензия Пандора (Pandora)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Компактная форма",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 8,
-    "name": "Можжевельник Шаровидный",
-    "price": 1050,
-    "type": "Хвойные",
-    "category": "mozhevelnik",
-    "desc": "Компактный шаровидный куст",
-    "inStock": true,
-    "imageName": "mozhevelnik_ball.jpg"
+    "name": "Гортензия Панфлора (Panflora)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Обильное цветение",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
   },
   {
     "id": 9,
-    "name": "Ель Глаука",
-    "price": 1800,
+    "name": "Гортензия Диамантино (Diamantino)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Белоснежные соцветия",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Гортензия Даймонд Руж (Diamant Rouge)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Соцветия становятся красными",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Гортензия Пиксио",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Карликовая метельчатая",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Гортензия Конфетти (Confetti)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Пестрые соцветия",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Гортензия Стравберри Блоссом (Strawberry Blossom)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Земляничный оттенок",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Гортензия Пастельгрин (Pastelgreen)",
+    "price": 700,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Нежный зеленый оттенок",
+    "inStock": true,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Гортензия Бонфаер (Bonfire)",
+    "price": 900,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Ярко-розовые соцветия",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Гортензия Металлика (Metallica)",
+    "price": 0,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Необычный металлический оттенок",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Гортензия Самарская Лидия (Samarskya Lydia)",
+    "price": 800,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Отечественный сорт",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Гортензия древовидная Анабель",
+    "price": 500,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Крупные белые шапки",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Гортензия древовидная Анабель Инвизибл",
+    "price": 600,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Махровая форма, прочные стебли",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Гортензия древовидная Пинк Анабель",
+    "price": 600,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Розовые соцветия",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Гортензия крупнолистная Лёйхфейер (Leuchtfeuer)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Ярко-красные соцветия",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Гортензия крупнолистная Букет Роуз (Bouquet Rose)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Розовые соцветия",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Гортензия крупнолистная Ю энд ми Романс (You&Me Romance)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Махровые цветы",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Гортензия крупнолистная Ю энд ми Мисс Саори (You&Me Miss Saori)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Сорт с бело-розовой каймой",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Гортензия крупнолистная Ю энд ми Лав (You&Me Love)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Эффектный сорт",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Гортензия крупнолистная Со Лонг Санни (So Long Sunny)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Долгое цветение",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Гортензия крупнолистная Сбежавшая Невеста (Runaway Bride)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Обильное цветение",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Гортензия крупнолистная Бесконечное лето (Endless Summer)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Ремонтантный сорт",
+    "inStock": false,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Гортензия крупнолистная Марина Блю (Marine)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Синие соцветия",
+    "inStock": true,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Гортензия крупнолистная Графиня Коссель (Grafin Cosel)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Элегантный сорт",
+    "inStock": true,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Гортензия крупнолистная Курли Вурли (Curly Wurly)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Курчавые листья",
+    "inStock": true,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Гортензия крупнолистная Нико Блю (Nikko Blue)",
+    "price": 1000,
+    "type": "Цветущие",
+    "category": "gortenziya",
+    "desc": "Классический сорт с синими цветами",
+    "inStock": true,
+    "imageName": "gortenziya.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Ель колючая Glauca",
+    "price": 1500,
     "type": "Хвойные",
     "category": "el",
-    "desc": "Голубая ель, серебристый оттенок хвои",
+    "desc": "Голубая ель, серебристая хвоя",
     "inStock": true,
     "imageName": "el_glauca.jpg"
   },
   {
-    "id": 10,
-    "name": "Яблоня Мельба",
-    "price": 1900,
-    "type": "Плодовые",
-    "category": "yablonya",
-    "desc": "Раннелетний сорт, сладкие сочные плоды",
-    "inStock": true,
-    "imageName": "yablonya_melba.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Яблоня Лобо",
-    "price": 1850,
-    "type": "Плодовые",
-    "category": "yablonya",
-    "desc": "Осенний сорт, крупные сладкие яблоки",
-    "inStock": true,
-    "imageName": "yablonya_lobo.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Яблоня Памяти Чкалова",
-    "price": 2000,
-    "type": "Плодовые",
-    "category": "yablonya",
-    "desc": "Крупные сладкие плоды, ранний сорт",
-    "inStock": true,
-    "imageName": "yablonya_chkalov.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Яблоня Спартан",
-    "price": 1950,
-    "type": "Плодовые",
-    "category": "yablonya",
-    "desc": "Канадский сорт, сладкие плоды с пряным ароматом",
-    "inStock": true,
-    "imageName": "yablonya_spartan.jpg"
-  },
-  {
-    "id": 14,
-    "name": "Яблоня Дюшес",
-    "price": 2100,
-    "type": "Плодовые",
-    "category": "yablonya",
-    "desc": "Грушевидные плоды, мускатный аромат",
-    "inStock": true,
-    "imageName": "yablonya_duches.jpg"
-  },
-  {
-    "id": 15,
-    "name": "Яблоня Семеринка",
-    "price": 1750,
-    "type": "Плодовые",
-    "category": "yablonya",
-    "desc": "Зимостойкий сорт, сочные плоды",
-    "inStock": true,
-    "imageName": "yablonya_semerinka.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Яблоня Грушовка",
-    "price": 1650,
-    "type": "Плодовые",
-    "category": "yablonya",
-    "desc": "Старинный русский сорт, ароматные плоды",
-    "inStock": true,
-    "imageName": "yablonya_grushovka.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Груша Талгарская красавица",
-    "price": 1800,
-    "type": "Плодовые",
-    "category": "grusha",
-    "desc": "Крупные золотистые плоды, десертный сорт",
-    "inStock": true,
-    "imageName": "grusha_talgarskaya.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Груша Лада",
-    "price": 1550,
-    "type": "Плодовые",
-    "category": "grusha",
-    "desc": "Ранний сорт, сладкие плоды",
-    "inStock": true,
-    "imageName": "grusha_lada.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Груша Просто Мария",
-    "price": 1700,
-    "type": "Плодовые",
-    "category": "grusha",
-    "desc": "Зимостойкий сорт, сочная мякоть",
-    "inStock": true,
-    "imageName": "grusha_maria.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Груша Чижовская",
-    "price": 1600,
-    "type": "Плодовые",
-    "category": "grusha",
-    "desc": "Популярный сорт, сладкие ароматные плоды",
-    "inStock": true,
-    "imageName": "grusha_chizhovskaya.jpg"
-  },
-  {
-    "id": 21,
-    "name": "Груша Конференция",
-    "price": 1850,
-    "type": "Плодовые",
-    "category": "grusha",
-    "desc": "Английский сорт, отличная лежкость",
-    "inStock": true,
-    "imageName": "grusha_conference.jpg"
-  },
-  {
-    "id": 22,
-    "name": "Черешня Ипуть",
-    "price": 1900,
-    "type": "Плодовые",
-    "category": "chereshnya",
-    "desc": "Сладкие крупные ягоды, ранний сорт",
-    "inStock": true,
-    "imageName": "chereshnya_iput.jpg"
-  },
-  {
-    "id": 23,
-    "name": "Черешня Ревна",
-    "price": 1950,
-    "type": "Плодовые",
-    "category": "chereshnya",
-    "desc": "Поздний сорт, темно-красные сладкие плоды",
-    "inStock": true,
-    "imageName": "chereshnya_revna.jpg"
-  },
-  {
-    "id": 24,
-    "name": "Черешня Остуженка",
-    "price": 1850,
-    "type": "Плодовые",
-    "category": "chereshnya",
-    "desc": "Бордовые плоды, сладкая мякоть",
-    "inStock": true,
-    "imageName": "chereshnya_ostuzhenka.jpg"
-  },
-  {
-    "id": 25,
-    "name": "Черешня Золотая",
-    "price": 2000,
-    "type": "Плодовые",
-    "category": "chereshnya",
-    "desc": "Желтые сладкие плоды",
-    "inStock": true,
-    "imageName": "chereshnya_zolotaya.jpg"
-  },
-  {
-    "id": 26,
-    "name": "Черешня Валерий Чкалов",
-    "price": 2100,
-    "type": "Плодовые",
-    "category": "chereshnya",
-    "desc": "Крупные темно-красные плоды",
-    "inStock": true,
-    "imageName": "chereshnya_chkalov.jpg"
-  },
-  {
-    "id": 27,
-    "name": "Черешня Веда",
-    "price": 1750,
-    "type": "Плодовые",
-    "category": "chereshnya",
-    "desc": "Карликовый сорт, сладкие плоды",
-    "inStock": true,
-    "imageName": "chereshnya_veda.jpg"
-  },
-  {
-    "id": 28,
-    "name": "Черешня Дончанка",
-    "price": 1700,
-    "type": "Плодовые",
-    "category": "chereshnya",
-    "desc": "Зимостойкий сорт, сочные плоды",
-    "inStock": true,
-    "imageName": "chereshnya_donchanka.jpg"
-  },
-  {
-    "id": 29,
-    "name": "Вишня Молодёжная",
-    "price": 1400,
-    "type": "Плодовые",
-    "category": "vishnya",
-    "desc": "Крупные темные ягоды, десертный вкус",
-    "inStock": true,
-    "imageName": "vishnya_molodezhnaya.jpg"
-  },
-  {
-    "id": 30,
-    "name": "Вишня Шоколадница",
-    "price": 1500,
-    "type": "Плодовые",
-    "category": "vishnya",
-    "desc": "Темно-коричневые плоды, сладкий вкус",
-    "inStock": true,
-    "imageName": "vishnya_shokoladnitsa.jpg"
-  },
-  {
-    "id": 31,
-    "name": "Вишня Чудо-вишня",
-    "price": 1600,
-    "type": "Плодовые",
-    "category": "vishnya",
-    "desc": "Гибрид черешни и вишни, крупные сладкие ягоды",
-    "inStock": true,
-    "imageName": "vishnya_chudo.jpg"
-  },
-  {
-    "id": 32,
-    "name": "Вишня Владимирская",
-    "price": 1300,
-    "type": "Плодовые",
-    "category": "vishnya",
-    "desc": "Старинный сорт, кисло-сладкие ягоды",
-    "inStock": true,
-    "imageName": "vishnya_vladimirskaya.jpg"
-  },
-  {
-    "id": 33,
-    "name": "Вишня Брянская",
-    "price": 1450,
-    "type": "Плодовые",
-    "category": "vishnya",
-    "desc": "Высокоурожайный сорт",
-    "inStock": true,
-    "imageName": "vishnya_bryanskaya.jpg"
-  },
-  {
     "id": 34,
-    "name": "Вишня Шпанка",
-    "price": 1350,
-    "type": "Плодовые",
-    "category": "vishnya",
-    "desc": "Украинский сорт, крупные ягоды",
+    "name": "Сосна горная Pumilio",
+    "price": 2800,
+    "type": "Хвойные",
+    "category": "sosna",
+    "desc": "Карликовая форма, подушковидная",
     "inStock": true,
-    "imageName": "vishnya_shpanka.jpg"
+    "imageName": "sosna_pumilio.jpg"
   },
   {
     "id": 35,
-    "name": "Персик Фламинго",
-    "price": 2300,
-    "type": "Плодовые",
-    "category": "persik",
-    "desc": "Розовые плоды, нежная сладкая мякоть",
-    "inStock": true,
-    "imageName": "persik_flamingo.jpg"
+    "name": "Сосна горная Mugus",
+    "price": 0,
+    "type": "Хвойные",
+    "category": "sosna",
+    "desc": "Низкорослая, раскидистая",
+    "inStock": false,
+    "imageName": "sosna_mugus.jpg"
   },
   {
     "id": 36,
-    "name": "Абрикос Триумф Северный",
-    "price": 2100,
-    "type": "Плодовые",
-    "category": "abrikos",
-    "desc": "Зимостойкий сорт, крупные плоды",
-    "inStock": true,
-    "imageName": "abrikos_triumf.jpg"
+    "name": "Туя западная Columna",
+    "price": 3000,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Узкая колонновидная форма",
+    "inStock": false,
+    "imageName": "tuja_columna.jpg"
   },
   {
     "id": 37,
-    "name": "Абрикос Краснощёкий",
-    "price": 1950,
-    "type": "Плодовые",
-    "category": "abrikos",
-    "desc": "Популярный сорт, сладкие ароматные плоды",
+    "name": "Туя западная Тини Тим",
+    "price": 2500,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Карликовая шаровидная",
     "inStock": true,
-    "imageName": "abrikos_krasnoshcheky.jpg"
+    "imageName": "tuja_tinytim.jpg"
   },
   {
     "id": 38,
-    "name": "Абрикос Чёрный принц",
-    "price": 2200,
-    "type": "Плодовые",
-    "category": "abrikos",
-    "desc": "Темно-бордовые плоды, необычный вкус",
+    "name": "Туя западная Голден Глоб",
+    "price": 2500,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Золотистая шаровидная",
     "inStock": true,
-    "imageName": "abrikos_black.jpg"
+    "imageName": "tuja_goldenglobe.jpg"
   },
   {
     "id": 39,
-    "name": "Слива Сильвия",
-    "price": 1600,
-    "type": "Плодовые",
-    "category": "sliva",
-    "desc": "Крупные фиолетовые плоды, сладкие",
+    "name": "Туя западная Мириам",
+    "price": 2500,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Карликовая, золотисто-желтая",
     "inStock": true,
-    "imageName": "sliva_silvia.jpg"
+    "imageName": "tuja_miriam.jpg"
   },
   {
     "id": 40,
-    "name": "Слива Золотая Россошанская",
-    "price": 1550,
-    "type": "Плодовые",
-    "category": "sliva",
-    "desc": "Желтые сладкие плоды",
-    "inStock": true,
-    "imageName": "sliva_zolotaya.jpg"
+    "name": "Туя западная Danica",
+    "price": 2500,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Шаровидная карликовая",
+    "inStock": false,
+    "imageName": "tuja_danika.jpg"
   },
   {
     "id": 41,
-    "name": "Слива Богатырская",
-    "price": 1650,
-    "type": "Плодовые",
-    "category": "sliva",
-    "desc": "Крупные плоды, высокоурожайный сорт",
+    "name": "Туя западная Smaragd",
+    "price": 1200,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Классическая коническая форма",
     "inStock": true,
-    "imageName": "sliva_bogatyrskaya.jpg"
+    "imageName": "tuja_smaragd.jpg"
   },
   {
     "id": 42,
-    "name": "Слива Ренклод",
-    "price": 1700,
-    "type": "Плодовые",
-    "category": "sliva",
-    "desc": "Зеленые сладкие плоды, десертный сорт",
+    "name": "Туя западная Голден Смарагд",
+    "price": 4000,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Золотисто-желтая хвоя",
     "inStock": true,
-    "imageName": "sliva_renklod.jpg"
+    "imageName": "tuja_goldensmaragd.jpg"
   },
   {
     "id": 43,
-    "name": "Слива Этюд",
-    "price": 1500,
-    "type": "Плодовые",
-    "category": "sliva",
-    "desc": "Темно-синие плоды, хорошая лежкость",
+    "name": "Туя западная Елоу Рибн",
+    "price": 1300,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Узкая, золотисто-желтая",
     "inStock": true,
-    "imageName": "sliva_etyud.jpg"
+    "imageName": "tuja_yellowribbon.jpg"
   },
   {
     "id": 44,
-    "name": "Шарафуга Золотая",
-    "price": 2500,
-    "type": "Плодовые",
-    "category": "sliva",
-    "desc": "Гибрид сливы и абрикоса, крупные сладкие плоды",
+    "name": "Туя западная Woodwardii",
+    "price": 900,
+    "type": "Хвойные",
+    "category": "tuja",
+    "desc": "Шаровидная форма",
     "inStock": true,
-    "imageName": "sharafuga.jpg"
+    "imageName": "tuja_woodwardii.jpg"
   },
   {
     "id": 45,
-    "name": "Яблоня декоративная Роялти",
-    "price": 2200,
-    "type": "Декоративные",
-    "category": "yabloko_dikor",
-    "desc": "Пурпурные листья, розовое цветение",
-    "inStock": true,
-    "imageName": "yablonya_royalty.jpg"
+    "name": "Можжевельник Old Gold",
+    "price": 800,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Золотистый оттенок, стелющийся",
+    "inStock": false,
+    "imageName": "mozhevelnik_oldgold.jpg"
   },
   {
     "id": 46,
-    "name": "Яблоня декоративная Раичка",
-    "price": 2100,
-    "type": "Декоративные",
-    "category": "yabloko_dikor",
-    "desc": "Плакучая форма, обильное цветение",
-    "inStock": true,
-    "imageName": "yablonya_raichka.jpg"
+    "name": "Можжевельник китайский Blue Carpet",
+    "price": 1000,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Голубой ковер, почвопокровный",
+    "inStock": false,
+    "imageName": "mozhevelnik_bluecarpet.jpg"
   },
   {
     "id": 47,
-    "name": "Сирень Красная Москва",
-    "price": 1400,
-    "type": "Декоративные",
-    "category": "siren",
-    "desc": "Темно-пурпурные цветы",
-    "inStock": true,
-    "imageName": "siren_krasnaya.jpg"
+    "name": "Можжевельник средний Холгер",
+    "price": 800,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Голубовато-зеленый с желтыми побегами",
+    "inStock": false,
+    "imageName": "mozhevelnik_holger.jpg"
   },
   {
     "id": 48,
-    "name": "Сирень Красавица Москвы",
-    "price": 1500,
-    "type": "Декоративные",
-    "category": "siren",
-    "desc": "Махровые цветы, нежно-розовые",
+    "name": "Можжевельник скальный Скай Рокет",
+    "price": 1800,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Узкоколонновидный, голубоватый",
     "inStock": true,
-    "imageName": "siren_krasavica.jpg"
+    "imageName": "mozhevelnik_skyrocket.jpg"
   },
   {
     "id": 49,
-    "name": "Сирень Сенсация",
-    "price": 1600,
-    "type": "Декоративные",
-    "category": "siren",
-    "desc": "Фиолетовые цветы с белой каймой",
-    "inStock": true,
-    "imageName": "siren_sensaciya.jpg"
+    "name": "Можжевельник скальный Блю Эрроу",
+    "price": 1200,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Узкая колонна, голубая хвоя",
+    "inStock": false,
+    "imageName": "mozhevelnik_bluearrow.jpg"
   },
   {
     "id": 50,
-    "name": "Сирень Белое облако",
-    "price": 1450,
-    "type": "Декоративные",
-    "category": "siren",
-    "desc": "Белые махровые цветы",
+    "name": "Можжевельник Минт Джубиле",
+    "price": 1100,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Изумрудно-зеленый, раскидистый",
     "inStock": true,
-    "imageName": "siren_white.jpg"
+    "imageName": "mozhevelnik_mintjulep.jpg"
   },
   {
     "id": 51,
-    "name": "Дёрен Элегантиссимус",
-    "price": 850,
-    "type": "Декоративные",
-    "category": "deren",
-    "desc": "Пестрые листья с белой каймой",
+    "name": "Можжевельник Пфитцериана",
+    "price": 1100,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Раскидистый кустарник",
     "inStock": true,
-    "imageName": "deren_elegant.jpg"
+    "imageName": "mozhevelnik_pfitzeriana.jpg"
   },
   {
     "id": 52,
-    "name": "Дёрен Сибирика",
-    "price": 800,
-    "type": "Декоративные",
-    "category": "deren",
-    "desc": "Ярко-красные побеги зимой",
+    "name": "Можжевельник казацкий Глаука",
+    "price": 1000,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Сизо-голубой, стелющийся",
     "inStock": true,
-    "imageName": "deren_sibirika.jpg"
+    "imageName": "mozhevelnik_kazackiy.jpg"
   },
   {
     "id": 53,
-    "name": "Смородина чёрная",
-    "price": 550,
-    "type": "Ягодные",
-    "category": "smorodina",
-    "desc": "Крупные сладкие ягоды, богатые витамином С",
+    "name": "Можжевельник казацкий Блуе Данубе",
+    "price": 1000,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Голубовато-зеленый",
     "inStock": true,
-    "imageName": "smorodina_black.jpg"
+    "imageName": "mozhevelnik_bluedanube.jpg"
   },
   {
     "id": 54,
-    "name": "Смородина красная",
-    "price": 500,
-    "type": "Ягодные",
-    "category": "smorodina",
-    "desc": "Ярко-красные ягоды, кисло-сладкий вкус",
+    "name": "Можжевельник Шлягер",
+    "price": 1000,
+    "type": "Хвойные",
+    "category": "mozhevelnik",
+    "desc": "Стелющаяся форма",
     "inStock": true,
-    "imageName": "smorodina_red.jpg"
+    "imageName": "mozhevelnik_schlaeger.jpg"
   },
   {
     "id": 55,
-    "name": "Смородина жёлтая",
-    "price": 520,
-    "type": "Ягодные",
-    "category": "smorodina",
-    "desc": "Желтые сладкие ягоды",
+    "name": "Барбарис Отавский Суперба",
+    "price": 500,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Пурпурные листья, крупный куст",
     "inStock": true,
-    "imageName": "smorodina_yellow.jpg"
+    "imageName": "barbaris_superba.jpg"
   },
   {
     "id": 56,
-    "name": "Крыжовник",
-    "price": 600,
-    "type": "Ягодные",
-    "category": "kryzhovnik",
-    "desc": "Крупные сладкие ягоды с кислинкой",
+    "name": "Барбарис Тунберга Atropurpurea",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Пурпурные листья",
     "inStock": true,
-    "imageName": "kryzhovnik.jpg"
+    "imageName": "barbaris_atropurpurea.jpg"
   },
   {
     "id": 57,
-    "name": "Клематис Жакмана",
-    "price": 750,
-    "type": "Цветущие",
+    "name": "Барбарис Тунберга Aurea",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Золотистые листья",
+    "inStock": false,
+    "imageName": "barbaris_aurea.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Барбарис Тунберга Carmen",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Карминно-красные листья",
+    "inStock": false,
+    "imageName": "barbaris_carmen.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Барбарис Тунберга Red Rocket",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Колонновидный, красные листья",
+    "inStock": true,
+    "imageName": "barbaris_redrocket.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Барбарис Тунберга Rose Glow",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Пестрые листья",
+    "inStock": false,
+    "imageName": "barbaris_roseglow.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Барбарис Тунберга Мария",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Золотистые листья",
+    "inStock": false,
+    "imageName": "barbaris_maria.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Барбарис Тунберга Dart´s Red Lady",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Темно-красные листья",
+    "inStock": false,
+    "imageName": "barbaris_darts.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Барбарис Тунберга Golden Torch",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Колонновидный, золотистый",
+    "inStock": false,
+    "imageName": "barbaris_goldentorch.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Барбарис Тунберга Оранж Рокет (Orange Rocket)",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Оранжево-красные листья",
+    "inStock": false,
+    "imageName": "barbaris_orangerocket.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Барбарис Тунберга Red Carpet",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Стелющаяся форма",
+    "inStock": true,
+    "imageName": "barbaris_redcarpet.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Барбарис Тунберга Red Pilar",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Колонновидный",
+    "inStock": true,
+    "imageName": "barbaris_redpilar.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Барбарис Тунберга Rosy Rocket",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Розовый сорт",
+    "inStock": true,
+    "imageName": "barbaris_rosyrocket.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Барбарис Тунберга Coral",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "barbaris",
+    "desc": "Кораллово-красные листья",
+    "inStock": false,
+    "imageName": "barbaris_coral.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Дёрен Aуpeя (Aurea)",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "deren",
+    "desc": "Золотистые листья",
+    "inStock": false,
+    "imageName": "deren_aurea.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Дёрен Гоучaулти (Gouchaultii)",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "deren",
+    "desc": "Пестрая форма",
+    "inStock": false,
+    "imageName": "deren_gouchaultii.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Дёрен Аргентеомаргината (Argentea)",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "deren",
+    "desc": "Бело-окаймленные листья",
+    "inStock": true,
+    "imageName": "deren_argentea.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Дёрен Элегантиссима (Elegantissima)",
+    "price": 500,
+    "type": "Декоративные",
+    "category": "deren",
+    "desc": "Пестрые листья, яркие побеги",
+    "inStock": true,
+    "imageName": "deren_elegantissima.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Вербейник монетчатый",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Почвопокровное растение с желтыми цветами",
+    "inStock": false,
+    "imageName": "verbeynik.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Живучка Блэк Скэллоп",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Темно-пурпурные листья",
+    "inStock": false,
+    "imageName": "zhivuchka.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Живучка Бургунди",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Бордовые листья",
+    "inStock": false,
+    "imageName": "zhivuchka.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Каменная роза",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Суккулент для альпинариев",
+    "inStock": false,
+    "imageName": "molodilo.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Обриетта",
+    "price": 250,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Почвопокровное, обильное цветение",
+    "inStock": true,
+    "imageName": "obrietta.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Очиток Пурпуреум",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Сукулент с пурпурными листьями",
+    "inStock": false,
+    "imageName": "sedum.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Очиток Винтер Лемон",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Светло-зеленые листья",
+    "inStock": false,
+    "imageName": "sedum.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Очиток скальный или отогнутый (Silver)",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Серебристые листья",
+    "inStock": false,
+    "imageName": "sedum.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Седум видный Матрона",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Высокий сорт, пурпурные цветы",
+    "inStock": true,
+    "imageName": "sedum_matrona.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Седум скальный Angelina",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Золотисто-желтые листья",
+    "inStock": false,
+    "imageName": "sedum_angelina.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Тимьян",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Ароматное почвопокровное",
+    "inStock": false,
+    "imageName": "tymian.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Флокс шиловидный",
+    "price": 350,
+    "type": "Многолетние",
+    "category": "floks",
+    "desc": "Почвопокровный, обильное цветение",
+    "inStock": false,
+    "imageName": "floks_shilovidny.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Ясколка",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Серебристые листья, белые цветы",
+    "inStock": true,
+    "imageName": "yaskolka.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Пузыреплодник калинолистный Diablo",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Темно-пурпурные листья",
+    "inStock": false,
+    "imageName": "puzyreplodnik_diablo.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Пузыреплодник калинолистный Andre",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Желто-зеленые листья",
+    "inStock": true,
+    "imageName": "puzyreplodnik_andre.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Пузыреплодник калинолистный Red Baron",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Темно-красные листья",
+    "inStock": true,
+    "imageName": "puzyreplodnik_redbaron.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Пузыреплодник калинолистный Lady in Red",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Ярко-красные листья",
+    "inStock": true,
+    "imageName": "puzyreplodnik_ladyinred.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Пузыреплодник калинолистный Amber Jubilee",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Янтарные листья",
+    "inStock": false,
+    "imageName": "puzyreplodnik_amber.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Пузыреплодник калинолистный Little Devil",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Карликовая форма, пурпурные листья",
+    "inStock": false,
+    "imageName": "puzyreplodnik_littledevil.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Пузыреплодник калинолистный Little Angel",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Карликовая золотистая форма",
+    "inStock": false,
+    "imageName": "puzyreplodnik_littleangel.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Пузыреплодник калинолистный Nugget",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "puzyreplodnik",
+    "desc": "Золотисто-желтый",
+    "inStock": true,
+    "imageName": "puzyreplodnik_nugget.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Спирея японская Генпей / Широбана",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "spireya",
+    "desc": "Розово-белые цветы",
+    "inStock": false,
+    "imageName": "spireya_genpey.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Спирея японская Golden Princess",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "spireya",
+    "desc": "Золотистые листья, розовые цветы",
+    "inStock": true,
+    "imageName": "spireya_golden.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Спирея японская Goldmound",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "spireya",
+    "desc": "Золотистая листва",
+    "inStock": false,
+    "imageName": "spireya_goldmound.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Спирея японская Goldflame",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "spireya",
+    "desc": "Молодые листья оранжевые",
+    "inStock": false,
+    "imageName": "spireya_goldflame.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Спирея японская Криспа",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "spireya",
+    "desc": "Курчавые листья",
+    "inStock": true,
+    "imageName": "spireya_crispa.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Спирея японская Grefsheim",
+    "price": 400,
+    "type": "Декоративные",
+    "category": "spireya",
+    "desc": "Обильное белое цветение",
+    "inStock": true,
+    "imageName": "spireya_grefsheim.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Мискантус Китайский",
+    "price": 350,
+    "type": "Злаки",
+    "category": "other",
+    "desc": "Высокий декоративный злак",
+    "inStock": true,
+    "imageName": "miscanthus.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Мискантус Зебрина",
+    "price": 350,
+    "type": "Злаки",
+    "category": "other",
+    "desc": "Поперечно-полосатые листья",
+    "inStock": true,
+    "imageName": "miscanthus_zebrina.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Овсяница сизая",
+    "price": 350,
+    "type": "Злаки",
+    "category": "other",
+    "desc": "Голубоватые листья",
+    "inStock": true,
+    "imageName": "ovsyanica.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Императа Ред Барон",
+    "price": 200,
+    "type": "Злаки",
+    "category": "other",
+    "desc": "Красные кончики листьев",
+    "inStock": true,
+    "imageName": "imperata.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Клематис Белое облако",
+    "price": 350,
+    "type": "Лианы",
     "category": "klematis",
-    "desc": "Крупные синие цветы",
+    "desc": "Мелкоцветковый, белый",
     "inStock": true,
     "imageName": "klematis.jpg"
   },
   {
-    "id": 58,
-    "name": "Княжики Сибирские",
-    "price": 650,
-    "type": "Цветущие",
+    "id": 105,
+    "name": "Клематис Тангутский",
+    "price": 300,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Желтые колокольчики",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Клематис Поль Фаргез",
+    "price": 350,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Мелкоцветковый, белый",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Клематис Минуэт",
+    "price": 500,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Двухцветный сорт",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Клематис Полиш Спирит",
+    "price": 700,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Темно-фиолетовый",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Клематис Омоширо",
+    "price": 700,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Бело-розовый сорт",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Княжик синий",
+    "price": 700,
+    "type": "Лианы",
     "category": "knyazhik",
-    "desc": "Изящные поникающие цветы",
+    "desc": "Поникающие голубые цветы",
     "inStock": true,
     "imageName": "knyazhik.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Глициния Блю Мун",
+    "price": 1800,
+    "type": "Лианы",
+    "category": "other",
+    "desc": "Зимостойкая глициния",
+    "inStock": false,
+    "imageName": "gliciniya.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Сирень Сент Маргарет",
+    "price": 500,
+    "type": "Декоративные",
+    "category": "siren",
+    "desc": "Белая махровая",
+    "inStock": true,
+    "imageName": "siren_margaret.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Сирень Чарльз Джоли",
+    "price": 500,
+    "type": "Декоративные",
+    "category": "siren",
+    "desc": "Фиолетовая",
+    "inStock": true,
+    "imageName": "siren_charles.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Сирень Сенсация",
+    "price": 600,
+    "type": "Декоративные",
+    "category": "siren",
+    "desc": "Фиолетовая с белой каймой",
+    "inStock": true,
+    "imageName": "siren_sensaciya.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Сирень Красавица Москвы",
+    "price": 600,
+    "type": "Декоративные",
+    "category": "siren",
+    "desc": "Махровая, бело-розовая",
+    "inStock": true,
+    "imageName": "siren_krasavica.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Сирень День Победы",
+    "price": 600,
+    "type": "Декоративные",
+    "category": "siren",
+    "desc": "Темно-пурпурный",
+    "inStock": true,
+    "imageName": "siren_denpobedy.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Сирень Венгерская",
+    "price": 300,
+    "type": "Декоративные",
+    "category": "siren",
+    "desc": "Неприхотливый вид",
+    "inStock": true,
+    "imageName": "siren_vengerskaya.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Азалия Голден Лайтс",
+    "price": 1100,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Золотисто-желтые цветы",
+    "inStock": true,
+    "imageName": "azalia.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Айва японская Sargentii",
+    "price": 350,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Декоративная и плодовая",
+    "inStock": false,
+    "imageName": "ayva.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Астильба в ассортименте",
+    "price": 350,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Пушистые соцветия",
+    "inStock": true,
+    "imageName": "astilba.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Бадан розовый",
+    "price": 350,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Крупные листья, розовые цветы",
+    "inStock": true,
+    "imageName": "badan.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Брунера",
+    "price": 350,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Пестрые листья",
+    "inStock": true,
+    "imageName": "brunera.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Бузина Блек Лейс",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Черно-пурпурные листья",
+    "inStock": true,
+    "imageName": "buzina.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Вейгела Александра",
+    "price": 600,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Цветущий кустарник",
+    "inStock": false,
+    "imageName": "veygela.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Вейгела Виктория",
+    "price": 650,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Пурпурные листья",
+    "inStock": true,
+    "imageName": "veygela.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Вейгела Нана Вариегата",
+    "price": 600,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Пестрая форма",
+    "inStock": true,
+    "imageName": "veygela.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Вейгела Ред Принц",
+    "price": 600,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Красные цветы",
+    "inStock": true,
+    "imageName": "veygela.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Гвоздика садовая многолетняя",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "gvozdika",
+    "desc": "Яркие цветы",
+    "inStock": false,
+    "imageName": "gvozdika.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Гвоздика перистая",
+    "price": 250,
+    "type": "Многолетние",
+    "category": "gvozdika",
+    "desc": "Ароматные цветы",
+    "inStock": true,
+    "imageName": "gvozdika.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Гейхера в ассортименте",
+    "price": 350,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Декоративнолиственное",
+    "inStock": true,
+    "imageName": "geyhera.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Ива Хакура Нишики",
+    "price": 450,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Розово-белые листья",
+    "inStock": true,
+    "imageName": "iva_hakura.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Кизильник горизонтальный",
+    "price": 350,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Стелющийся кустарник",
+    "inStock": true,
+    "imageName": "kizilnik.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Котовник Фассена",
+    "price": 200,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Ароматное растение",
+    "inStock": true,
+    "imageName": "kotovnik.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Лаванда",
+    "price": 300,
+    "type": "Многолетние",
+    "category": "lavanda",
+    "desc": "Ароматные фиолетовые цветы",
+    "inStock": true,
+    "imageName": "lavanda.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Лапчатка кустарниковая",
+    "price": 350,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Желтые цветы",
+    "inStock": false,
+    "imageName": "lapchatka.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Пионы в ассортименте",
+    "price": 850,
+    "type": "Многолетние",
+    "category": "pion",
+    "desc": "Крупные махровые цветы",
+    "inStock": true,
+    "imageName": "pion.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Рододендрон Школьница",
+    "price": 1100,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Розовые цветы",
+    "inStock": true,
+    "imageName": "rododendron.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Самшит",
+    "price": 1100,
+    "type": "Вечнозеленые",
+    "category": "other",
+    "desc": "Для живых изгородей",
+    "inStock": false,
+    "imageName": "samsit.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Флокс в ассортименте",
+    "price": 350,
+    "type": "Многолетние",
+    "category": "floks",
+    "desc": "Пышные соцветия",
+    "inStock": true,
+    "imageName": "floks.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Форзиция",
+    "price": 250,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Раннее желтое цветение",
+    "inStock": true,
+    "imageName": "forziciya.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Хоста в ассортименте",
+    "price": 400,
+    "type": "Многолетние",
+    "category": "hosta",
+    "desc": "Декоративные крупные листья",
+    "inStock": true,
+    "imageName": "hosta.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Чубушник (жасмин) Снежная буря",
+    "price": 350,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Махровые белые цветы",
+    "inStock": true,
+    "imageName": "chubushnik.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Шалфей Caradonna",
+    "price": 350,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Фиолетовые свечи",
+    "inStock": true,
+    "imageName": "shalfey.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Эхинацея Мама Миа",
+    "price": 450,
+    "type": "Многолетние",
+    "category": "other",
+    "desc": "Розовые лепестки",
+    "inStock": true,
+    "imageName": "ehinaceya.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Яблоня декоративная Роял Бьюти",
+    "price": 2000,
+    "type": "Декоративные",
+    "category": "yabloko_dikor",
+    "desc": "Плакучая форма",
+    "inStock": true,
+    "imageName": "yablonya_dekor.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Яблоня декоративная Роялти",
+    "price": 1000,
+    "type": "Декоративные",
+    "category": "yabloko_dikor",
+    "desc": "Пурпурные листья",
+    "inStock": true,
+    "imageName": "yablonya_dekor.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Черемуха Виргинская Шуберт",
+    "price": 1000,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Пурпурные листья",
+    "inStock": true,
+    "imageName": "cheremuha.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Рябина видовая",
+    "price": 3000,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Высота 1,7-2м",
+    "inStock": true,
+    "imageName": "ryabina.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Рябина Дуболистная",
+    "price": 700,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Высота 1м",
+    "inStock": true,
+    "imageName": "ryabina.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Липа",
+    "price": 1000,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Высота 1,5м",
+    "inStock": false,
+    "imageName": "lipa.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Калина Бульдонеж",
+    "price": 350,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Снежно-белые шары",
+    "inStock": false,
+    "imageName": "kalina_bul.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Калина обыкновенная (красная)",
+    "price": 300,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Полезные ягоды",
+    "inStock": true,
+    "imageName": "kalina.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Каштан",
+    "price": 350,
+    "type": "Декоративные",
+    "category": "other",
+    "desc": "Декоративное дерево",
+    "inStock": true,
+    "imageName": "kashtan.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Яблоня летняя Мелба",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Ранний сорт, сладкие плоды",
+    "inStock": false,
+    "imageName": "yablonya_melba.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Яблоня летняя Конфетное",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Сладкие, медовые яблоки",
+    "inStock": false,
+    "imageName": "yablonya_konfetnoe.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Яблоня летняя Гренни Смит",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Кисло-сладкие плоды",
+    "inStock": false,
+    "imageName": "yablonya_granny.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Яблоня осенняя Подарок Гравскому",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Урожайный сорт",
+    "inStock": false,
+    "imageName": "yablonya.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Яблоня осенняя Апорт",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Крупные плоды",
+    "inStock": false,
+    "imageName": "yablonya_aport.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Яблоня зимняя Гала",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Сладкие хрустящие яблоки",
+    "inStock": false,
+    "imageName": "yablonya_gala.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Яблоня зимняя Лобо",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Зимний сорт",
+    "inStock": false,
+    "imageName": "yablonya_lobo.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Яблоня зимняя Спартан",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Канадский сорт",
+    "inStock": true,
+    "imageName": "yablonya_spartan.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Яблоня зимняя Чемпион",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Сладкие плоды",
+    "inStock": true,
+    "imageName": "yablonya_chempion.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Яблоня колоновидная Президент",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Компактная форма",
+    "inStock": false,
+    "imageName": "yablonya_kolonovidnaya.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Яблоня колоновидная Есения",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Осенний сорт",
+    "inStock": false,
+    "imageName": "yablonya_kolonovidnaya.jpg"
+  },
+  {
+    "id": 211,
+    "name": "Яблоня колоновидная Висюган",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "yablonya",
+    "desc": "Зимостойкий сорт",
+    "inStock": false,
+    "imageName": "yablonya_kolonovidnaya.jpg"
+  },
+  {
+    "id": 212,
+    "name": "Груша летняя Лада",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Ранний сорт",
+    "inStock": false,
+    "imageName": "grusha_lada.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Груша летняя Мраморная",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Десертный сорт",
+    "inStock": false,
+    "imageName": "grusha_mramornaya.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Груша осенняя Талгарская Красавица",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Крупные золотистые плоды",
+    "inStock": false,
+    "imageName": "grusha_talgarskaya.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Груша осенняя Просто Мария",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Зимостойкий сорт",
+    "inStock": false,
+    "imageName": "grusha_maria.jpg"
+  },
+  {
+    "id": 216,
+    "name": "Груша зимняя Яковлевская",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Поздний сорт",
+    "inStock": false,
+    "imageName": "grusha_yakovlevskaya.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Груша зимняя Фиерия",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Десертный сорт",
+    "inStock": false,
+    "imageName": "grusha_fieriya.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Груша колоновидная Сапфира",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Компактная форма",
+    "inStock": false,
+    "imageName": "grusha_kolonovidnaya.jpg"
+  },
+  {
+    "id": 219,
+    "name": "Груша колоновидная Декора",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "grusha",
+    "desc": "Декоративная и плодовая",
+    "inStock": false,
+    "imageName": "grusha_kolonovidnaya.jpg"
+  },
+  {
+    "id": 220,
+    "name": "Черешня Валерий Чкалов",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "chereshnya",
+    "desc": "Крупные темные плоды",
+    "inStock": false,
+    "imageName": "chereshnya_chkalov.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Черешня Ипуть",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "chereshnya",
+    "desc": "Сладкие крупные ягоды",
+    "inStock": false,
+    "imageName": "chereshnya_iput.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Черешня Ревна",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "chereshnya",
+    "desc": "Поздний сорт",
+    "inStock": true,
+    "imageName": "chereshnya_revna.jpg"
+  },
+  {
+    "id": 223,
+    "name": "Черешня Веда",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "chereshnya",
+    "desc": "Карликовый сорт",
+    "inStock": false,
+    "imageName": "chereshnya_veda.jpg"
+  },
+  {
+    "id": 224,
+    "name": "Черешня Россошанская Золотая",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "chereshnya",
+    "desc": "Желтые сладкие плоды",
+    "inStock": false,
+    "imageName": "chereshnya_zolotaya.jpg"
+  },
+  {
+    "id": 225,
+    "name": "Черешня Свитхарт",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "chereshnya",
+    "desc": "Сердцевидные плоды",
+    "inStock": false,
+    "imageName": "chereshnya_swetheart.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Черешня колоновидная Сильвия",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "chereshnya",
+    "desc": "Компактная форма",
+    "inStock": false,
+    "imageName": "chereshnya_kolonovidnaya.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Абрикос Жигулевский сувенир",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "abrikos",
+    "desc": "Зимостойкий сорт",
+    "inStock": false,
+    "imageName": "abrikos.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Абрикос Черный Бархат",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "abrikos",
+    "desc": "Темные опушенные плоды",
+    "inStock": false,
+    "imageName": "abrikos_black.jpg"
+  },
+  {
+    "id": 229,
+    "name": "Абрикос колоновидный Принц Март",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "abrikos",
+    "desc": "Колоновидная форма",
+    "inStock": false,
+    "imageName": "abrikos_kolonovidnaya.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Вишня Гирлянда",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "vishnya",
+    "desc": "Обильное плодоношение",
+    "inStock": false,
+    "imageName": "vishnya.jpg"
+  },
+  {
+    "id": 231,
+    "name": "Вишня Жуковская",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "vishnya",
+    "desc": "Десертный сорт",
+    "inStock": false,
+    "imageName": "vishnya.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Вишня Молодежная",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "vishnya",
+    "desc": "Крупные темные ягоды",
+    "inStock": true,
+    "imageName": "vishnya_molodezhnaya.jpg"
+  },
+  {
+    "id": 233,
+    "name": "Слива Стенлей",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "sliva",
+    "desc": "Крупные фиолетовые плоды",
+    "inStock": true,
+    "imageName": "sliva_stenley.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Слива Озарк Премьер",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "sliva",
+    "desc": "Ранний сорт",
+    "inStock": false,
+    "imageName": "sliva.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Слива колоновидная Империал",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "sliva",
+    "desc": "Компактная форма",
+    "inStock": false,
+    "imageName": "sliva_kolonovidnaya.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Персик Вардени",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "persik",
+    "desc": "Крупные розовые плоды",
+    "inStock": false,
+    "imageName": "persik.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Персик колоновидный Юбилей Столицы",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "persik",
+    "desc": "Колоновидная форма",
+    "inStock": true,
+    "imageName": "persik_kolonovidnaya.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Дюк Ивановка",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Гибрид вишни и черешни",
+    "inStock": false,
+    "imageName": "duk.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Дюк Факел",
+    "price": 800,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Гибрид, крупные ягоды",
+    "inStock": false,
+    "imageName": "duk.jpg"
+  },
+  {
+    "id": 240,
+    "name": "Облепиха",
+    "price": 500,
+    "type": "Ягодные",
+    "category": "other",
+    "desc": "Полезные ягоды",
+    "inStock": true,
+    "imageName": "oblepiha.jpg"
+  },
+  {
+    "id": 241,
+    "name": "Жимолость Бакчарский Великан",
+    "price": 500,
+    "type": "Ягодные",
+    "category": "zhimolost",
+    "desc": "Крупные сладкие ягоды",
+    "inStock": true,
+    "imageName": "zhimolost.jpg"
+  },
+  {
+    "id": 242,
+    "name": "Жимолость Бореал Бизард",
+    "price": 600,
+    "type": "Ягодные",
+    "category": "zhimolost",
+    "desc": "Ранний сорт",
+    "inStock": true,
+    "imageName": "zhimolost.jpg"
+  },
+  {
+    "id": 243,
+    "name": "Жимолость Нижегородская Ранняя",
+    "price": 600,
+    "type": "Ягодные",
+    "category": "zhimolost",
+    "desc": "Ранний сорт",
+    "inStock": true,
+    "imageName": "zhimolost.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Жимолость Синяя Птица",
+    "price": 500,
+    "type": "Ягодные",
+    "category": "zhimolost",
+    "desc": "Стабильный урожай",
+    "inStock": true,
+    "imageName": "zhimolost.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Голубика Нортленд",
+    "price": 800,
+    "type": "Ягодные",
+    "category": "golubika",
+    "desc": "Низкорослая, морозостойкая",
+    "inStock": false,
+    "imageName": "golubika.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Смородина черная Селеченская",
+    "price": 400,
+    "type": "Ягодные",
+    "category": "smorodina",
+    "desc": "Сладкая, крупная",
+    "inStock": false,
+    "imageName": "smorodina.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Смородина черная Багира",
+    "price": 400,
+    "type": "Ягодные",
+    "category": "smorodina",
+    "desc": "Высокоурожайный сорт",
+    "inStock": false,
+    "imageName": "smorodina.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Смородина белая Версальская",
+    "price": 400,
+    "type": "Ягодные",
+    "category": "smorodina",
+    "desc": "Прозрачные кисло-сладкие ягоды",
+    "inStock": false,
+    "imageName": "smorodina.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Смородина красная Мармеладница",
+    "price": 400,
+    "type": "Ягодные",
+    "category": "smorodina",
+    "desc": "Желеобразующие ягоды",
+    "inStock": false,
+    "imageName": "smorodina.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Магония",
+    "price": 450,
+    "type": "Вечнозеленые",
+    "category": "other",
+    "desc": "Вечнозеленый кустарник",
+    "inStock": true,
+    "imageName": "mahoniya.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Арония",
+    "price": 900,
+    "type": "Ягодные",
+    "category": "other",
+    "desc": "Черноплодная рябина, полезные ягоды",
+    "inStock": true,
+    "imageName": "aroniya.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Орех",
+    "price": 500,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Грецкий орех",
+    "inStock": true,
+    "imageName": "oreh.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Шелковица",
+    "price": 500,
+    "type": "Плодовые",
+    "category": "helkovica",
+    "desc": "Тутовое дерево, сладкие ягоды",
+    "inStock": true,
+    "imageName": "helkovica.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Ирга ольхолистная",
+    "price": 300,
+    "type": "Ягодные",
+    "category": "other",
+    "desc": "Полезные сладкие ягоды",
+    "inStock": true,
+    "imageName": "irga.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Гуми",
+    "price": 1100,
+    "type": "Ягодные",
+    "category": "other",
+    "desc": "Серебристые листья, полезные ягоды",
+    "inStock": true,
+    "imageName": "gumi.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Актинидия",
+    "price": 600,
+    "type": "Лианы",
+    "category": "other",
+    "desc": "Киви, плодоносящая лиана",
+    "inStock": true,
+    "imageName": "aktinidiya.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Йошта",
+    "price": 350,
+    "type": "Ягодные",
+    "category": "other",
+    "desc": "Гибрид смородины и крыжовника",
+    "inStock": false,
+    "imageName": "yoshta.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Крыжовник Грушенька",
+    "price": 350,
+    "type": "Ягодные",
+    "category": "kryzhovnik",
+    "desc": "Сладкие ягоды грушевидной формы",
+    "inStock": false,
+    "imageName": "kryzhovnik.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Виноград Казанова",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Столовый сорт, крупные ягоды",
+    "inStock": false,
+    "imageName": "vinograd.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Виноград Первенец ранний",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Ранний столовый сорт",
+    "inStock": false,
+    "imageName": "vinograd.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Виноград Лора",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Крупные сладкие ягоды",
+    "inStock": false,
+    "imageName": "vinograd.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Виноград Тимур",
+    "price": 700,
+    "type": "Плодовые",
+    "category": "other",
+    "desc": "Ранний сорт с мускатным ароматом",
+    "inStock": false,
+    "imageName": "vinograd.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Клематис Грюнвальд",
+    "price": 800,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Сине-фиолетовые цветы",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Клематис Ядвига Валенсис",
+    "price": 800,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Крупные белые цветы",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 265,
+    "name": "Клематис Виль де Лион",
+    "price": 800,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Темно-малиновые цветы",
+    "inStock": true,
+    "imageName": "klematis.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Клематис Анна Герман",
+    "price": 800,
+    "type": "Лианы",
+    "category": "klematis",
+    "desc": "Нежно-бежевые цветы",
+    "inStock": true,
+    "imageName": "klematis.jpg"
   },
   {
     "id": 901,
@@ -611,16 +2231,6 @@
   },
   {
     "id": 904,
-    "name": "Удобрение универсальное",
-    "price": 300,
-    "type": "Удобрения",
-    "category": "other",
-    "desc": "Комплексное удобрение для всех культур",
-    "inStock": true,
-    "imageName": "fertilizer_universal.jpg"
-  },
-  {
-    "id": 905,
     "name": "Грунт универсальный",
     "price": 250,
     "type": "Грунты",
@@ -630,17 +2240,7 @@
     "imageName": "soil.jpg"
   },
   {
-    "id": 906,
-    "name": "Грунт для хвойных",
-    "price": 280,
-    "type": "Грунты",
-    "category": "other",
-    "desc": "Специализированный грунт для хвойных",
-    "inStock": true,
-    "imageName": "soil_conifer.jpg"
-  },
-  {
-    "id": 907,
+    "id": 905,
     "name": "Торф верховой",
     "price": 300,
     "type": "Грунты",
@@ -650,7 +2250,7 @@
     "imageName": "peat.jpg"
   },
   {
-    "id": 908,
+    "id": 906,
     "name": "Перегной",
     "price": 400,
     "type": "Грунты",
@@ -660,7 +2260,7 @@
     "imageName": "humus.jpg"
   },
   {
-    "id": 909,
+    "id": 907,
     "name": "Керамзит дренажный",
     "price": 200,
     "type": "Дренаж",
@@ -670,17 +2270,7 @@
     "imageName": "keramzit.jpg"
   },
   {
-    "id": 910,
-    "name": "Дренаж для растений",
-    "price": 180,
-    "type": "Дренаж",
-    "category": "other",
-    "desc": "Готовый дренаж для комнатных растений",
-    "inStock": true,
-    "imageName": "drainage.jpg"
-  },
-  {
-    "id": 911,
+    "id": 908,
     "name": "Стимулятор роста Корневин",
     "price": 150,
     "type": "Стимуляторы",
@@ -690,7 +2280,7 @@
     "imageName": "kornevin.jpg"
   },
   {
-    "id": 912,
+    "id": 909,
     "name": "Стимулятор роста Эпин",
     "price": 120,
     "type": "Стимуляторы",
@@ -700,7 +2290,7 @@
     "imageName": "epin.jpg"
   },
   {
-    "id": 913,
+    "id": 910,
     "name": "Средство от болезней Фитоспорин",
     "price": 180,
     "type": "Защита",
@@ -710,17 +2300,7 @@
     "imageName": "fitosporin.jpg"
   },
   {
-    "id": 914,
-    "name": "Инсектицид Актара",
-    "price": 200,
-    "type": "Защита",
-    "category": "other",
-    "desc": "От вредителей",
-    "inStock": true,
-    "imageName": "aktara.jpg"
-  },
-  {
-    "id": 915,
+    "id": 911,
     "name": "Горшок пластиковый 3л",
     "price": 120,
     "type": "Посадочные ёмкости",
@@ -730,7 +2310,7 @@
     "imageName": "pot_3l.jpg"
   },
   {
-    "id": 916,
+    "id": 912,
     "name": "Горшок пластиковый 5л",
     "price": 180,
     "type": "Посадочные ёмкости",
@@ -740,17 +2320,7 @@
     "imageName": "pot_5l.jpg"
   },
   {
-    "id": 917,
-    "name": "Горшок керамический 2л",
-    "price": 350,
-    "type": "Посадочные ёмкости",
-    "category": "other",
-    "desc": "Декоративный горшок",
-    "inStock": true,
-    "imageName": "pot_ceramic.jpg"
-  },
-  {
-    "id": 918,
+    "id": 913,
     "name": "Кашпо подвесное",
     "price": 280,
     "type": "Посадочные ёмкости",
@@ -760,7 +2330,7 @@
     "imageName": "kashpo.jpg"
   },
   {
-    "id": 919,
+    "id": 914,
     "name": "Секатор садовый",
     "price": 450,
     "type": "Инструменты",
@@ -770,27 +2340,7 @@
     "imageName": "sektor.jpg"
   },
   {
-    "id": 920,
-    "name": "Сучкорез телескопический",
-    "price": 850,
-    "type": "Инструменты",
-    "category": "other",
-    "desc": "Для обрезки высоких веток",
-    "inStock": true,
-    "imageName": "suchkorez.jpg"
-  },
-  {
-    "id": 921,
-    "name": "Садовые ножницы",
-    "price": 350,
-    "type": "Инструменты",
-    "category": "other",
-    "desc": "Для стрижки кустов",
-    "inStock": true,
-    "imageName": "nozhnicy.jpg"
-  },
-  {
-    "id": 922,
+    "id": 915,
     "name": "Перчатки садовые",
     "price": 180,
     "type": "Аксессуары",
@@ -800,7 +2350,7 @@
     "imageName": "gloves.jpg"
   },
   {
-    "id": 923,
+    "id": 916,
     "name": "Лейка садовая 5л",
     "price": 400,
     "type": "Полив",
@@ -810,7 +2360,7 @@
     "imageName": "leika.jpg"
   },
   {
-    "id": 924,
+    "id": 917,
     "name": "Опрыскиватель ручной",
     "price": 350,
     "type": "Полив",
@@ -820,17 +2370,7 @@
     "imageName": "opryskivatel.jpg"
   },
   {
-    "id": 925,
-    "name": "Шланг поливочный 10м",
-    "price": 550,
-    "type": "Полив",
-    "category": "other",
-    "desc": "Для полива участка",
-    "inStock": true,
-    "imageName": "shlang.jpg"
-  },
-  {
-    "id": 926,
+    "id": 918,
     "name": "Мульча декоративная",
     "price": 250,
     "type": "Мульча",
@@ -840,27 +2380,7 @@
     "imageName": "mulch.jpg"
   },
   {
-    "id": 927,
-    "name": "Кора сосновая",
-    "price": 300,
-    "type": "Мульча",
-    "category": "other",
-    "desc": "Для мульчирования",
-    "inStock": true,
-    "imageName": "bark.jpg"
-  },
-  {
-    "id": 928,
-    "name": "Сетка затеняющая",
-    "price": 400,
-    "type": "Защита",
-    "category": "other",
-    "desc": "Для защиты от солнца",
-    "inStock": true,
-    "imageName": "net.jpg"
-  },
-  {
-    "id": 929,
+    "id": 919,
     "name": "Агроволокно",
     "price": 350,
     "type": "Укрывной материал",
@@ -868,25 +2388,5 @@
     "desc": "Для укрытия растений",
     "inStock": true,
     "imageName": "agrovolokno.jpg"
-  },
-  {
-    "id": 930,
-    "name": "Плёнка парниковая",
-    "price": 280,
-    "type": "Укрывной материал",
-    "category": "other",
-    "desc": "Для парников и теплиц",
-    "inStock": true,
-    "imageName": "film.jpg"
-  },
-  {
-    "id": 59,
-    "name": "Роза Аида",
-    "price": 2000,
-    "type": "Цветущие",
-    "category": "roza",
-    "desc": "Крупные бордовые цветы, чайно-гибридная, ароматная",
-    "inStock": true,
-    "imageName": "roza_aida.jpg"
   }
 ]
